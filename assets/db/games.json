@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Radiance Device's",
+    "description": "Puzzle game in the genre platform scroller. The purpose of the game to pass the test chambers filled with chains of energy with help “Radiance” Device.",
+    "fields": {
+      "Platform": "Web, Flash",
+      "Genre": "Puzzle, Platformer",
+      "Year": "2012"
+    },
+    "mainImage": "/assets/images/games/radiance-devices/header.jpg",
+    "openLink": "https://www.newgrounds.com/portal/view/601235"
+  },
+  {
+    "title": "Journey to construction Yard",
+    "description": "Journey to Construction Yard is an adventure stick game about a boy who got lost into a construction zone. The angry workers are chasing him so he runs trying to find the way out. Your task is to pass all 7 levels to get through to the exit. A game is full of obstacles and surprises.",
+    "fields": {
+      "Platform": "Web, Flash",
+      "Genre": "Runner, Platformer",
+      "Year": "2012"
+    },
+    "mainImage": "/assets/images/games/journey-to-construction-yard/header.jpg",
+    "openLink": "https://www.newgrounds.com/portal/view/601235"
+  },
+  {
+    "title": "Radiance Device's 2",
+    "description": "This is a sequel to our game Radiance Device's, in which player controls the same prisoner, which was offered a deal in form of freedom for completing all test chambers with experimental device. Our hero, full of hope to find freedom after completing all test chambers, is about to exit the area, but instead finds more chambers, that one has to complete.",
+    "fields": {
+      "Platform": "Web, Flash",
+      "Genre": "Puzzle, Platformer",
+      "Year": "2013"
+    },
+    "mainImage": "/assets/images/games/radiance-devices-2/header.jpg",
+    "openLink": "https://www.newgrounds.com/portal/view/616551"
+  },
+  {
+    "title": "Power Break",
+    "description": "Standart Arcanoid",
+    "fields": {
+      "Platform": "Web, Flash",
+      "Genre": "Arcade, Arcanoid",
+      "Year": "2013"
+    },
+    "mainImage": "/assets/images/games/power-break/header.jpg",
+    "openLink": "https://www.newgrounds.com/portal/view/609362"
+  },
+  {
+    "title": "Sixside",
+    "description": "It's game about virtual reality. World of the game - a virtual reality and you need get out from this world to save your life.",
+    "fields": {
+      "Platform": "PC",
+      "Genre": "Runner, Platformer",
+      "Year": "2013"
+    },
+    "mainImage": "/assets/images/games/sixside/header.webp",
+    "openLink": "https://gamejolt.com/games/sixside/17310"
+  },
+  {
+    "title": "Sixside Runner Rush",
+    "description": "It's game about virtual reality. World of the game - a virtual reality and you need get out from this world to save your life. Experimental Game",
+    "fields": {
+      "Platform": "Android",
+      "Genre": "Runner",
+      "Year": "2014"
+    },
+    "mainImage": "/assets/images/games/sixside-runner-rush/header.png",
+    "openLink": "https://4pda.ru/forum/index.php?showtopic=535301"
+  },
+  {
+    "title": "Just Game",
+    "description": "Just Game - ordinary test game on HTML5. The plot tells the story of a soldier who crashed on a planet infested by aliens . Waiting for help , he had to fight against these aliens.",
+    "fields": {
+      "Platform": "Web, HTML5",
+      "Genre": "Shooter, Platformer, Survival",
+      "Year": "2015"
+    },
+    "mainImage": "/assets/images/games/just-game/header.webp",
+    "openLink": "https://gamejolt.com/games/just-game/45096"
+  },
+  {
+    "title": "Stifler (codename) [DEMO]",
+    "description": "No description.",
+    "fields": {
+      "Platform": "Web, HTML5",
+      "Genre": "Platformer, Exploration, Survival",
+      "Year": "2021"
+    },
+    "mainImage": "/assets/images/games/stifler/header.webp",
+    "openLink": "https://gamejolt.com/games/stifler/29212"
+  }
+]

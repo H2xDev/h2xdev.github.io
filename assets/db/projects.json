@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Bowwow",
+    "description": "Official website of digital agency Bowwow",
+    "fields": {
+      "Tech Stack": "Vue, Nuxt, JS, SCSS",
+      "Was done": "Admin panel, Public website",
+      "Year": "2019"
+    },
+    "mainImage": "/assets/images/projects/bowwow.jpg",
+    "openLink": "http://bowwow.ru"
+  },
+  {
+    "title": "WRK.SPACE",
+    "description": "Website about office construction",
+    "fields": {
+      "Tech Stack": "Vue, Nuxt, JS, SCSS",
+      "Was done": "Admin panel, Public website",
+      "Year": "2018"
+    },
+    "mainImage": "/assets/images/projects/wrk-space.jpg",
+    "openLink": "http://wrk.space"
+  },
+
+  {
+    "title": "Pandico",
+    "description": "Online service for learning foreign languages",
+    "fields": {
+      "Tech Stack": "Vue, Nuxt, JS, SCSS",
+      "Was done": "Admin panel, Public website",
+      "Year": "2020"
+    },
+    "mainImage": "/assets/images/projects/pandico.jpg",
+    "openLink": "http://pandico.ru"
+  },
+
+  {
+    "title": "Vezzer.no",
+    "description": "Landing page of logistic platform",
+    "fields": {
+      "Tech Stack": "HTML5, SCSS, JS",
+      "Year": "2017"
+    },
+    "mainImage": "/assets/images/projects/vezzerno.jpg",
+    "openLink": "http://vezzer.no"
+  },
+
+  {
+    "title": "Kaspersky",
+    "description": "E-Mail and Landing pages development",
+    "fields": {
+      "Tech Stack": "HTML, Inline-css",
+      "Year": "2020 (from 2018)"
+    },
+    "mainImage": "/assets/images/projects/kaspersky.jpg",
+    "openLink": "https://support.bowwoow.ru/dev/"
+  },
+
+  {
+    "title": "MD: Palitra Sounds",
+    "description": "Motion Design for Palitra Sounds video",
+    "fields": {
+      "Tech Stack": "Adobe AE, Figma",
+      "Year": "2020"
+    },
+    "mainImage": "/assets/images/projects/palitra.jpg",
+    "openLink": "https://www.youtube.com/watch?v=04fVQULfR9U"
+  }
+]
